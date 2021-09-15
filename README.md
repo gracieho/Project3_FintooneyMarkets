@@ -108,8 +108,8 @@ Refer '6_FintooneyMarket.sol' file.
 
 To deploy - 
 * Deploy the '6_FintooneyMarket.sol' file (eg in Remix).  This file will automatically trigger the deployment of the '5_FintooneyAuction.sol' file.  
-* The deployed contract address of the '6_FintooneyMarket.sol' file should be pasted in line 2 of the dapp.js file (front end folder). 
-* The ABI files for both '5_FintooneyAuction.sol' and '6_FintooneyMarket.sol' files should be pasted in their respective .json files (front end folder).
+* The deployed contract address of the '6_FintooneyMarket.sol' file should be pasted in line 2 of the dapp.js file (frontend_Wrapper / front end folder). 
+* The ABI files for both '5_FintooneyAuction.sol' and '6_FintooneyMarket.sol' files should be pasted in their respective .json files (frontend_Wrapper / front end folder).
 * The front end files can be hosted using an Ethereum Testnet (eg Rinkeby) and GitHub Pages.  
 * The front end will allow bids to occur on specific NFTs and displays the owner once the NFT has been successfully purchased via the auction.  See image below:
 
